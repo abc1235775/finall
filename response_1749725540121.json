@@ -1,0 +1,2764 @@
+{
+  "UpdateTime": "2025-04-02T15:36:45+08:00",
+  "UpdateInterval": 14400,
+  "AuthorityCode": "TBROC",
+  "VersionID": 0,
+  "ParkingFacilities": [
+    {
+      "CarParkID": "MAOL05",
+      "CarParkName": {
+        "Zh_tw": "十八羅漢山服務區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "  十八羅漢山服務區"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "  十八羅漢山服務區"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "  十八羅漢山服務區"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00003",
+      "CarParkName": {
+        "Zh_tw": "文峰遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "賣店",
+          "FacilityType": 7,
+          "LocationDescription": "文峰遊客中心2樓"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "文峰遊客中心服務台",
+          "FacilityType": 9,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁及文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "愛台灣無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁及文峰遊客中心1樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00002",
+      "CarParkName": {
+        "Zh_tw": "牛埔仔愛情大草原停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "牛埔仔服務中心"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "牛埔仔服務中心旁廁所"
+        },
+        {
+          "FacilityName": "愛台灣無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "牛埔仔服務中心1樓"
+        },
+        {
+          "FacilityName": "充電樁",
+          "FacilityType": 19,
+          "LocationDescription": "小客車停車位"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "牛埔仔服務中心賣店"
+        },
+        {
+          "FacilityName": "詢問處",
+          "FacilityType": 9,
+          "LocationDescription": "牛埔仔服務中心賣店櫃台"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "牛埔仔服務中心旁廁所"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "牛埔仔服務中心1樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00011",
+      "CarParkName": {
+        "Zh_tw": "潮口平台停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "潮口平台"
+        },
+        {
+          "FacilityName": "女廁",
+          "FacilityType": 2,
+          "LocationDescription": "潮口平台"
+        },
+        {
+          "FacilityName": "男廁",
+          "FacilityType": 2,
+          "LocationDescription": "潮口平台"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SRY-00001",
+      "CarParkName": {
+        "Zh_tw": "官田遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": "官田遊客中心"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "官田遊客中心"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "官田遊客中心"
+        },
+        {
+          "FacilityName": "祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": "官田遊客中心"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "官田遊客中心"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "官田遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV-00001",
+      "CarParkName": {
+        "Zh_tw": "鯉魚潭潭北停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙公廁",
+          "FacilityType": 3,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "淋浴間",
+          "FacilityType": 12,
+          "LocationDescription": "鯉魚潭管理站"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "電動機車充電站",
+          "FacilityType": 19,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "駕駛人休息室",
+          "FacilityType": 20,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "置物櫃(行李)",
+          "FacilityType": 14,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "遊客服務台",
+          "FacilityType": 9,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "公共電話",
+          "FacilityType": 17,
+          "LocationDescription": "鯉魚潭遊客中心"
+        },
+        {
+          "FacilityName": "祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": "鯉魚潭遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "neyc04",
+      "CarParkName": {
+        "Zh_tw": "港口里停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "詢問處",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁駐在所(粉色建物)"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-nob02",
+      "CarParkName": {
+        "Zh_tw": "金山立體停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "場內"
+        },
+        {
+          "FacilityName": "電梯",
+          "FacilityType": 1,
+          "LocationDescription": "場內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00005",
+      "CarParkName": {
+        "Zh_tw": "嘉義梅山太平雲梯停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 3,
+          "LocationDescription": "太平雲梯遊客服務中心1F"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 2,
+          "LocationDescription": "太平雲梯遊客服務中心1F"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 4,
+          "LocationDescription": "太平雲梯遊客服務中心1F服務台"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 16,
+          "LocationDescription": "太平雲梯遊客服務中心1F服務台"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 8,
+          "LocationDescription": "太平雲梯遊客服務中心2F"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 9,
+          "LocationDescription": "太平雲梯遊客服務中心1F服務台"
+        },
+        {
+          "FacilityName": "充電樁",
+          "FacilityType": 19,
+          "LocationDescription": "中巴停車場"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 10,
+          "LocationDescription": "太平雲梯遊客服務中心1F"
+        },
+        {
+          "FacilityName": "太平雲梯遊客服務中心",
+          "FacilityType": 1,
+          "LocationDescription": "太平雲梯遊客服務中心1F東南方"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00006",
+      "CarParkName": {
+        "Zh_tw": "鵬村濕地停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男女廁",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "鳥仔咖",
+          "FacilityType": 7,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-01401",
+      "CarParkName": {
+        "Zh_tw": "布袋海景公園小客車A區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 254,
+          "LocationDescription": "無"
+        },
+        {
+          "FacilityName": "無",
+          "FacilityType": 254,
+          "LocationDescription": "無"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL09",
+      "CarParkName": {
+        "Zh_tw": "禮納里遊客中心前臨時停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "禮納里遊客中心1F、2F，無障礙廁所各1間"
+        },
+        {
+          "FacilityName": "AED設備",
+          "FacilityType": 16,
+          "LocationDescription": "禮納里遊客中心1F"
+        },
+        {
+          "FacilityName": "獨立育嬰室",
+          "FacilityType": 4,
+          "LocationDescription": "禮納里遊客中心1F"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "禮納里遊客中心1F、2F廁所"
+        },
+        {
+          "FacilityName": "旅客服務臺",
+          "FacilityType": 9,
+          "LocationDescription": "禮納里遊客中心1F"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV201",
+      "CarParkName": {
+        "Zh_tw": "羅山遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "淋浴間",
+          "FacilityType": 12,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "羅山遊客中心"
+        },
+        {
+          "FacilityName": "遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "羅山遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00008",
+      "CarParkName": {
+        "Zh_tw": "水往上流遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁公廁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-45901",
+      "CarParkName": {
+        "Zh_tw": "白沙灣第二停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "出入口旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00005",
+      "CarParkName": {
+        "Zh_tw": "櫻緣丘停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV301",
+      "CarParkName": {
+        "Zh_tw": "池上遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "淋浴間",
+          "FacilityType": 12,
+          "LocationDescription": "公廁內"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "服務櫃台",
+          "FacilityType": 9,
+          "LocationDescription": "遊客中心1樓"
+        },
+        {
+          "FacilityName": "男、女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00001",
+      "CarParkName": {
+        "Zh_tw": "觸口遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "觸口遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "2樓服務台"
+        },
+        {
+          "FacilityName": "愛台灣無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "遊客中心2樓"
+        },
+        {
+          "FacilityName": "希諾奇賣店",
+          "FacilityType": 7,
+          "LocationDescription": "遊客中心1樓"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心1樓"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "遊客中心2樓"
+        },
+        {
+          "FacilityName": "置物空間",
+          "FacilityType": 14,
+          "LocationDescription": "遊客中心2樓"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "遊客中心2樓入口"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心1樓"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "遊客中心2樓"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "廁所旁"
+        },
+        {
+          "FacilityName": "電梯",
+          "FacilityType": 1,
+          "LocationDescription": "遊客中心1樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG004",
+      "CarParkName": {
+        "Zh_tw": "大跳石停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "廁所位於大客車停車位入口處(台二線38.2K)"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ML-00011",
+      "CarParkName": {
+        "Zh_tw": "新威遊客中心第一停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": "新威遊客中心2F"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "新威行政中心北棟1F"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "新威森林公園"
+        },
+        {
+          "FacilityName": "簡易保健室",
+          "FacilityType": 15,
+          "LocationDescription": "新威遊客中心1F"
+        },
+        {
+          "FacilityName": "飲水機 ",
+          "FacilityType": 10,
+          "LocationDescription": "新威行政中心北棟1F"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "新威遊客中心1F"
+        },
+        {
+          "FacilityName": "旅客服務臺 ",
+          "FacilityType": 9,
+          "LocationDescription": "新威遊客中心1F"
+        },
+        {
+          "FacilityName": "AED設備 ",
+          "FacilityType": 16,
+          "LocationDescription": "新威遊客中心1F"
+        },
+        {
+          "FacilityName": "置物櫃",
+          "FacilityType": 14,
+          "LocationDescription": "新威遊客中心1F"
+        },
+        {
+          "FacilityName": "森思咖啡廳 ",
+          "FacilityType": 8,
+          "LocationDescription": "威遊客中心1F旁"
+        },
+        {
+          "FacilityName": "自行車(電輔車)租用站",
+          "FacilityType": 254,
+          "LocationDescription": "新威遊客中心北棟1F"
+        },
+        {
+          "FacilityName": "獨立育嬰室",
+          "FacilityType": 4,
+          "LocationDescription": "新威行政中心北棟1F"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "新威行政中心北棟1F"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00004",
+      "CarParkName": {
+        "Zh_tw": "圓潭生態園區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "圓潭生態園區廁所"
+        },
+        {
+          "FacilityName": "圓潭生態園區餐廳",
+          "FacilityType": 8,
+          "LocationDescription": "圓潭生態園區2樓"
+        },
+        {
+          "FacilityName": "wifi網路",
+          "FacilityType": 6,
+          "LocationDescription": "餐廳"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "1樓廁所"
+        },
+        {
+          "FacilityName": "無障礙電梯",
+          "FacilityType": 1,
+          "LocationDescription": "餐廳"
+        }
+      ]
+    },
+    {
+      "CarParkID": "PH-20003",
+      "CarParkName": {
+        "Zh_tw": "澎湖遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "電動汽車快速充電樁",
+          "FacilityType": 19,
+          "LocationDescription": "入口第1,2個小客車停車位"
+        }
+      ]
+    },
+    {
+      "CarParkID": "neyc05",
+      "CarParkName": {
+        "Zh_tw": "龍洞灣第一停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "停車場出入口處"
+        },
+        {
+          "FacilityName": "電動車位",
+          "FacilityType": 19,
+          "LocationDescription": "停車場進入口右轉後靠馬路一側，離入口處最近有兩處電動充電車位"
+        },
+        {
+          "FacilityName": "管理室",
+          "FacilityType": 28,
+          "LocationDescription": "停車場出入口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "Trimt009",
+      "CarParkName": {
+        "Zh_tw": "古生物奇幻樂園"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "就是愛荔枝樂園",
+          "FacilityType": 254,
+          "LocationDescription": "樂園入口前方為停車場"
+        },
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG007",
+      "CarParkName": {
+        "Zh_tw": "富貴角停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-12310",
+      "CarParkName": {
+        "Zh_tw": "龜吼停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "繳費機位於停車場入口處旁"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "廁所位於停車場入口處右側"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-10411",
+      "CarParkName": {
+        "Zh_tw": "野柳地質公園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "廁所位於野柳地質公園北側出口"
+        },
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "繳費機共4台，2台放置服務站旁，1台放置北側小客車車停車位入口處，1台放置於廁所旁"
+        },
+        {
+          "FacilityName": "服務站",
+          "FacilityType": 9,
+          "LocationDescription": "服務站位於停車場入口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ML-00012",
+      "CarParkName": {
+        "Zh_tw": "新威遊客中心第二停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "免費無線網路 ",
+          "FacilityType": 6,
+          "LocationDescription": "新威森林公園"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "新威遊客中心第二停車場旁"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "新威遊客中心第二停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-06001",
+      "CarParkName": {
+        "Zh_tw": "馬沙溝濱海遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "旅客服務中心",
+          "FacilityType": 3,
+          "LocationDescription": "販賣部大樓一樓"
+        },
+        {
+          "FacilityName": "旅客服務中心",
+          "FacilityType": 4,
+          "LocationDescription": "販賣部大樓一樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML008",
+      "CarParkName": {
+        "Zh_tw": "大竹湖停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "涼亭",
+          "FacilityType": 254,
+          "LocationDescription": "大竹湖步道中段位置"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV202",
+      "CarParkName": {
+        "Zh_tw": "鶴岡遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "鶴崗遊客中心1樓"
+        },
+        {
+          "FacilityName": "無障礙公廁",
+          "FacilityType": 3,
+          "LocationDescription": "鶴崗遊客中心1樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML011",
+      "CarParkName": {
+        "Zh_tw": "山明停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-26301",
+      "CarParkName": {
+        "Zh_tw": "和一路停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "自動繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "出口左側"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML-sml_cc0001",
+      "CarParkName": {
+        "Zh_tw": "車埕停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00001",
+      "CarParkName": {
+        "Zh_tw": "獅山遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "獅山遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場在遊客中心門口前方"
+        }
+      ]
+    },
+    {
+      "CarParkID": "sir006",
+      "CarParkName": {
+        "Zh_tw": "嶺頂公園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": " 嶺頂公園停車場"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": " 嶺頂公園停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL07",
+      "CarParkName": {
+        "Zh_tw": "涼山遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "AED設備",
+          "FacilityType": 16,
+          "LocationDescription": " 涼山遊憩區商店及辦公室"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": " 涼山遊憩區"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": " 涼山遊憩區"
+        },
+        {
+          "FacilityName": "手機通電",
+          "FacilityType": 11,
+          "LocationDescription": " 涼山遊憩區遊客中心及售票亭"
+        },
+        {
+          "FacilityName": "咖啡廳",
+          "FacilityType": 7,
+          "LocationDescription": " 涼山遊憩區"
+        },
+        {
+          "FacilityName": "旅客服務台",
+          "FacilityType": 9,
+          "LocationDescription": " 涼山遊憩區遊客中心及售票亭"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": " 涼山遊憩區售票亭"
+        },
+        {
+          "FacilityName": "獨立育嬰室",
+          "FacilityType": 4,
+          "LocationDescription": " 涼山遊憩區"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-03001",
+      "CarParkName": {
+        "Zh_tw": "北門遊客中心大客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV302",
+      "CarParkName": {
+        "Zh_tw": "鹿野遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "服務櫃台",
+          "FacilityType": 9,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "置物櫃",
+          "FacilityType": 14,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "男、女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "穆斯林祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "AED設備",
+          "FacilityType": 16,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML003",
+      "CarParkName": {
+        "Zh_tw": "車埕第二停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "停車場內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML-sml_cs0001",
+      "CarParkName": {
+        "Zh_tw": "日月潭纜車站停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00018",
+      "CarParkName": {
+        "Zh_tw": "八仙洞風景區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "八仙洞遊憩區入口",
+          "FacilityType": 7,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "八仙洞遊憩區入口",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "sir003",
+      "CarParkName": {
+        "Zh_tw": "梅嶺資訊站停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": "梅嶺資訊站"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "梅嶺資訊站"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00012",
+      "CarParkName": {
+        "Zh_tw": "三仙台風景區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "三仙台遊憩區入口",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "三仙台遊憩區入口",
+          "FacilityType": 7,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "PH-20004",
+      "CarParkName": {
+        "Zh_tw": "二崁第二停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "二崁遊憩區公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "二崁第二停車場自動收費站",
+          "FacilityType": 18,
+          "LocationDescription": "出入口處"
+        },
+        {
+          "FacilityName": "電動汽車快速充電樁",
+          "FacilityType": 19,
+          "LocationDescription": "入口第1,2個小客車停車"
+        },
+        {
+          "FacilityName": "二崁遊憩區公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "matsu1",
+      "CarParkName": {
+        "Zh_tw": "南竿遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "充電樁4樁",
+          "FacilityType": 19,
+          "LocationDescription": "南竿遊客中心停車場"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00030",
+      "CarParkName": {
+        "Zh_tw": "芭崎遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "停車場"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00004",
+      "CarParkName": {
+        "Zh_tw": "梨山文物陳列館停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "梨山文物陳列館",
+          "FacilityType": 254,
+          "LocationDescription": "停車場在梨山文物陳列館前方"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML009",
+      "CarParkName": {
+        "Zh_tw": "蘭園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00024",
+      "CarParkName": {
+        "Zh_tw": "石梯坪風景區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁及涼亭",
+          "FacilityType": 2,
+          "LocationDescription": "平面停車場"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "平面停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00002",
+      "CarParkName": {
+        "Zh_tw": "小野柳風景區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "小野柳遊憩區入口",
+          "FacilityType": 7,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "小野柳遊憩區入口",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML005",
+      "CarParkName": {
+        "Zh_tw": "玄光寺停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "玄光碼頭上方入口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00032",
+      "CarParkName": {
+        "Zh_tw": "秀姑巒溪遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "neyc03",
+      "CarParkName": {
+        "Zh_tw": "北關海潮公園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "攤販建物內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL08",
+      "CarParkName": {
+        "Zh_tw": "賽嘉樂園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "賽嘉樂園交誼大廳"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "賽嘉樂園"
+        },
+        {
+          "FacilityName": "旅客服務臺",
+          "FacilityType": 9,
+          "LocationDescription": "賽嘉樂園遊客中心"
+        },
+        {
+          "FacilityName": "獨立育嬰室",
+          "FacilityType": 4,
+          "LocationDescription": "賽嘉樂園遊客中心"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "賽嘉樂園"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG012",
+      "CarParkName": {
+        "Zh_tw": "三芝遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "三芝遊客中心內"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "三芝遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-nob01",
+      "CarParkName": {
+        "Zh_tw": "金山中角停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "中角灣遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "sir004",
+      "CarParkName": {
+        "Zh_tw": "大埔資訊站停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "大埔資訊站"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": "大埔資訊站"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "大埔資訊站"
+        }
+      ]
+    },
+    {
+      "CarParkID": "sir005",
+      "CarParkName": {
+        "Zh_tw": "中埔遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": " 中埔遊客中心"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": " 中埔遊客中心"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": " 中埔遊客中心"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": " 中埔遊客中心"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": " 中埔遊客中心"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": " 中埔遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-A0167",
+      "CarParkName": {
+        "Zh_tw": "基隆和平島公園"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "園區出入口旁"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "園區內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-02001",
+      "CarParkName": {
+        "Zh_tw": "七股遊客中心大客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "七股遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-01402",
+      "CarParkName": {
+        "Zh_tw": "布袋海景公園小客車B區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "布袋海景公園(高跟鞋教堂)",
+          "FacilityType": 254,
+          "LocationDescription": "布袋海景公園(高跟鞋教堂)"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00012",
+      "CarParkName": {
+        "Zh_tw": "紅樹林濕地停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "鵬灣跨海大橋(嘉蓮端)旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-44701",
+      "CarParkName": {
+        "Zh_tw": "白沙月灣停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "充電棒",
+          "FacilityType": 19,
+          "LocationDescription": "停車場內"
+        },
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "近出口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00003",
+      "CarParkName": {
+        "Zh_tw": "大鵬灣遊客服務中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 2,
+          "LocationDescription": "大潭里大潭路169號"
+        },
+        {
+          "FacilityName": "大鵬灣停車場",
+          "FacilityType": 254,
+          "LocationDescription": "管理處"
+        },
+        {
+          "FacilityName": "大鵬灣停車場",
+          "FacilityType": 254,
+          "LocationDescription": "大鵬灣處停車場"
+        },
+        {
+          "FacilityName": "無",
+          "FacilityType": 254,
+          "LocationDescription": "管理處停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00014",
+      "CarParkName": {
+        "Zh_tw": "石雨傘遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場東側"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ML-00002",
+      "CarParkName": {
+        "Zh_tw": "十八羅漢服務區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "十八羅漢山服務區"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "十八羅漢山服務區"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "十八羅漢山服務區"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-05002",
+      "CarParkName": {
+        "Zh_tw": "北門第二停車場機車"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門優質公廁",
+          "FacilityType": 3,
+          "LocationDescription": "北門大客車停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00001",
+      "CarParkName": {
+        "Zh_tw": "青洲濱海遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "青洲遊憩區停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL03",
+      "CarParkName": {
+        "Zh_tw": "不老溫泉區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無設施",
+          "FacilityType": 255,
+          "LocationDescription": "無設施"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00025",
+      "CarParkName": {
+        "Zh_tw": "遊三區臨時停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "鵬灣大道五段"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML004",
+      "CarParkName": {
+        "Zh_tw": "向山遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "向山遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "向山遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML006",
+      "CarParkName": {
+        "Zh_tw": "慈恩塔步道停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "慈恩塔步道入口下方處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-05001",
+      "CarParkName": {
+        "Zh_tw": "北門第二停車場小客車"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "金稜宮旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-I0010",
+      "CarParkName": {
+        "Zh_tw": "楓櫃斗湖登山步道口"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 255,
+          "LocationDescription": "無"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-0977e",
+      "CarParkName": {
+        "Zh_tw": "淺水灣停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "出口旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-04002",
+      "CarParkName": {
+        "Zh_tw": "井仔腳小客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": " 井仔腳小客車停車場",
+          "FacilityType": 19,
+          "LocationDescription": "台南市北門區舊埕"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00020",
+      "CarParkName": {
+        "Zh_tw": "北回歸線遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "停車場"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00013",
+      "CarParkName": {
+        "Zh_tw": "橋亭停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "右岸濕地前方"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00001",
+      "CarParkName": {
+        "Zh_tw": "東管處都歷遊客中心"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "厠所",
+          "FacilityType": 2,
+          "LocationDescription": "小客車停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "sir002",
+      "CarParkName": {
+        "Zh_tw": "南化遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": " 南化遊客中心"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": " 南化遊客中心"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": " 南化遊客中心"
+        },
+        {
+          "FacilityName": "祈禱室",
+          "FacilityType": 21,
+          "LocationDescription": " 南化遊客中心"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": " 南化遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-04001",
+      "CarParkName": {
+        "Zh_tw": "井仔腳大客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "台灣好行-西濱快線",
+          "FacilityType": 13,
+          "LocationDescription": "停車場出口旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-45801",
+      "CarParkName": {
+        "Zh_tw": "白沙灣第一停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "廁所旁"
+        },
+        {
+          "FacilityName": "充電樁",
+          "FacilityType": 19,
+          "LocationDescription": "停車場內"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "管理室內"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "出口旁"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "廁所"
+        },
+        {
+          "FacilityName": "管理室",
+          "FacilityType": 28,
+          "LocationDescription": "繳費機旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV303",
+      "CarParkName": {
+        "Zh_tw": "鹿野高台大草皮停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "戶外開放空間無設施",
+          "FacilityType": 254,
+          "LocationDescription": "戶外開放空間無設施"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SRY-00002",
+      "CarParkName": {
+        "Zh_tw": "紅葉公園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 2,
+          "LocationDescription": " 紅葉公園停車場"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": " 紅葉公園停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-I0011",
+      "CarParkName": {
+        "Zh_tw": "基隆情人湖園區"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "neyc02",
+      "CarParkName": {
+        "Zh_tw": "鼻頭港服務區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "服務區建物內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-02003",
+      "CarParkName": {
+        "Zh_tw": "七股遊客中心機車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "七股遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ML-00013",
+      "CarParkName": {
+        "Zh_tw": "新威遊客中心第三停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所 ",
+          "FacilityType": 3,
+          "LocationDescription": "新威遊客中心第三停車場旁"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "新威遊客中心第三停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML001",
+      "CarParkName": {
+        "Zh_tw": "伊達邵中正路停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "日月潭伊達邵中正路往投97線方向入口"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00028",
+      "CarParkName": {
+        "Zh_tw": "磯崎海濱遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場"
+        },
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL04",
+      "CarParkName": {
+        "Zh_tw": "寶來休閒活動廣場停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無設施",
+          "FacilityType": 255,
+          "LocationDescription": "無設施"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV-00002",
+      "CarParkName": {
+        "Zh_tw": "鯉魚潭潭南停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙公廁",
+          "FacilityType": 3,
+          "LocationDescription": "鯉魚潭潭南停車場"
+        },
+        {
+          "FacilityName": "電動車充電站",
+          "FacilityType": 19,
+          "LocationDescription": "鯉魚潭潭南停車場"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "鯉魚潭潭南停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-01501",
+      "CarParkName": {
+        "Zh_tw": "口湖遊客中心大客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "PH-20002",
+      "CarParkName": {
+        "Zh_tw": "隘門沙灘停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "隘門沙灘停車場自動收費站",
+          "FacilityType": 18,
+          "LocationDescription": "出入口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00003",
+      "CarParkName": {
+        "Zh_tw": "梨山遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 255,
+          "LocationDescription": "XX"
+        }
+      ]
+    },
+    {
+      "CarParkID": "d00002",
+      "CarParkName": {
+        "Zh_tw": "崎峰濕地停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 2,
+          "LocationDescription": "平面"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00003",
+      "CarParkName": {
+        "Zh_tw": "落日灣停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 2,
+          "LocationDescription": "平面"
+        }
+      ]
+    },
+    {
+      "CarParkID": "PH-20001",
+      "CarParkName": {
+        "Zh_tw": "北寮奎壁山遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北寮奎壁山旅遊資訊站",
+          "FacilityType": 254,
+          "LocationDescription": "澎湖縣湖西鄉北寮村41-9號"
+        },
+        {
+          "FacilityName": "北寮奎壁山遊憩區停車場自動收費站",
+          "FacilityType": 18,
+          "LocationDescription": "澎湖縣湖西鄉北寮村41之9號"
+        },
+        {
+          "FacilityName": "北寮奎壁山遊憩區公廁",
+          "FacilityType": 2,
+          "LocationDescription": "澎湖縣湖西鄉北寮41之9號"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-I0002",
+      "CarParkName": {
+        "Zh_tw": "觀音山遊客中心停車場二"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SRY-00004",
+      "CarParkName": {
+        "Zh_tw": "觀專二停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場出入口閘門",
+          "FacilityType": 254,
+          "LocationDescription": "停車場出入口"
+        }
+      ]
+    },
+    {
+      "CarParkID": "Trimt008",
+      "CarParkName": {
+        "Zh_tw": "赤水崎園區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無設施",
+          "FacilityType": 255,
+          "LocationDescription": "無"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL01",
+      "CarParkName": {
+        "Zh_tw": "寶來公有停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無設施",
+          "FacilityType": 255,
+          "LocationDescription": "無設施"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-03005",
+      "CarParkName": {
+        "Zh_tw": "北門遊客中心機車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門優質公廁",
+          "FacilityType": 3,
+          "LocationDescription": "北門遊客中心停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00006",
+      "CarParkName": {
+        "Zh_tw": "田中森林公園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00023",
+      "CarParkName": {
+        "Zh_tw": "鵬灣跨海大橋(嘉蓮端)停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 2,
+          "LocationDescription": "平面"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-07002",
+      "CarParkName": {
+        "Zh_tw": "南鯤鯓小客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "飲料店",
+          "FacilityType": 7,
+          "LocationDescription": "臺17南向"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00002",
+      "CarParkName": {
+        "Zh_tw": "濱灣碼頭停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "鵬灣大道五段"
+        }
+      ]
+    },
+    {
+      "CarParkID": "matsu2",
+      "CarParkName": {
+        "Zh_tw": "北竿遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "neyc01",
+      "CarParkName": {
+        "Zh_tw": "福隆停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "管理室",
+          "FacilityType": 28,
+          "LocationDescription": "近火車站出口處"
+        },
+        {
+          "FacilityName": "無障礙公廁",
+          "FacilityType": 3,
+          "LocationDescription": "停車場內"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL02",
+      "CarParkName": {
+        "Zh_tw": " 寶來遊客服務區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "寶來遊客服務區"
+        },
+        {
+          "FacilityName": "聚寶來餐廳",
+          "FacilityType": 8,
+          "LocationDescription": "寶來遊客服務區"
+        },
+        {
+          "FacilityName": "旅客服務臺",
+          "FacilityType": 9,
+          "LocationDescription": "寶來遊客服務區櫃台"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-03002",
+      "CarParkName": {
+        "Zh_tw": "北門遊客中心小客車停車場A區"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門遊客中心小客車停車場A區",
+          "FacilityType": 19,
+          "LocationDescription": "北門遊客中心小客車停車場A區"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00003",
+      "CarParkName": {
+        "Zh_tw": "加路蘭遊憩區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場右側"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML-p0003",
+      "CarParkName": {
+        "Zh_tw": "文武廟停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "文武廟"
+        },
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "文武廟"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG003",
+      "CarParkName": {
+        "Zh_tw": "獅頭山停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 255,
+          "LocationDescription": "無"
+        }
+      ]
+    },
+    {
+      "CarParkID": "DPB-00024",
+      "CarParkName": {
+        "Zh_tw": "遊一區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "海上教堂步道前"
+        }
+      ]
+    },
+    {
+      "CarParkID": "Trimt003",
+      "CarParkName": {
+        "Zh_tw": "南庄遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "南庄遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "1樓平面停車場旁邊是遊客中心"
+        },
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "1樓平面停車場旁邊有公廁"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "1樓平面停車場旁邊有無障礙廁所"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-40805",
+      "CarParkName": {
+        "Zh_tw": "翡翠灣停車場(龜吼石角海濱)"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "入口旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML002",
+      "CarParkName": {
+        "Zh_tw": "伊達邵遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "日月潭伊達邵遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG021",
+      "CarParkName": {
+        "Zh_tw": "基隆外木山地區停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "PH-20005",
+      "CarParkName": {
+        "Zh_tw": "通梁橋頭停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "自動收費站",
+          "FacilityType": 18,
+          "LocationDescription": "出入口處"
+        },
+        {
+          "FacilityName": "停車場公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-01503",
+      "CarParkName": {
+        "Zh_tw": "口湖遊客中心機車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML007",
+      "CarParkName": {
+        "Zh_tw": "水蛙頭步道停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "涼亭",
+          "FacilityType": 254,
+          "LocationDescription": "水蛙頭步道入口處"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00022",
+      "CarParkName": {
+        "Zh_tw": "奚卜蘭遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "遊客中心"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00002",
+      "CarParkName": {
+        "Zh_tw": "水濂洞停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        }
+      ]
+    },
+    {
+      "CarParkID": "matsu4",
+      "CarParkName": {
+        "Zh_tw": "東引遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "東引遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-03003",
+      "CarParkName": {
+        "Zh_tw": "北門遊客中心小客車停車場B區"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門優質公廁",
+          "FacilityType": 3,
+          "LocationDescription": "北門遊客中心小客車停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-01502",
+      "CarParkName": {
+        "Zh_tw": "口湖遊客中心小客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-03004",
+      "CarParkName": {
+        "Zh_tw": "北門遊客中心小客車停車場C區"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "北門優質公廁",
+          "FacilityType": 3,
+          "LocationDescription": "北門遊客中心小客車停車場C區"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG005",
+      "CarParkName": {
+        "Zh_tw": "小跳石停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無",
+          "FacilityType": 255,
+          "LocationDescription": "無"
+        }
+      ]
+    },
+    {
+      "CarParkID": "D00009",
+      "CarParkName": {
+        "Zh_tw": "候船中心旁停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "停車場",
+          "FacilityType": 254,
+          "LocationDescription": "鵬灣大道五段"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TRIM-00007",
+      "CarParkName": {
+        "Zh_tw": "豐柏廣場停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁邊"
+        },
+        {
+          "FacilityName": "男女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁邊"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-09001",
+      "CarParkName": {
+        "Zh_tw": "布袋文創HOTEL停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "布袋遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG017",
+      "CarParkName": {
+        "Zh_tw": "凌雲禪寺登山步道口"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "EC-00038",
+      "CarParkName": {
+        "Zh_tw": "花蓮遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-07001",
+      "CarParkName": {
+        "Zh_tw": "南鯤鯓大客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "南鯤鯓內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-C0031",
+      "CarParkName": {
+        "Zh_tw": "八尺門停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "繳費機",
+          "FacilityType": 18,
+          "LocationDescription": "場內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "NCG-I0001",
+      "CarParkName": {
+        "Zh_tw": "觀音山遊客中心"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SWC-02002",
+      "CarParkName": {
+        "Zh_tw": "七股遊客中心小客車停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "七股遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "TBROCNCG015",
+      "CarParkName": {
+        "Zh_tw": "聖宮媽(觀音山生態園區)"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "有廁所(位於停車場底部)"
+        }
+      ]
+    },
+    {
+      "CarParkID": "SML010",
+      "CarParkName": {
+        "Zh_tw": "埔里遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁"
+        }
+      ]
+    },
+    {
+      "CarParkID": "matsu3",
+      "CarParkName": {
+        "Zh_tw": "莒光遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "公廁",
+          "FacilityType": 2,
+          "LocationDescription": "莒光遊客中心旁"
+        }
+      ]
+    }
+  ]
+}
