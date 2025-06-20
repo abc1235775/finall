@@ -92,7 +92,7 @@ export default function Home() {
               className="rounded-xl shadow-md max-h-64 object-cover"
             />
             <button
-              className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors"
+              className="inline-block px-5 py-2 bg-rose-500 text-white rounded-full hover:bg-rose-600 text-sm font-semibold shadow-md"
               onClick={() => {
                 window.location.href = `/task?city=${selectedCity}`;
               }}

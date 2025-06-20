@@ -90,6 +90,7 @@ const staticCityData = {
    console.log('🌀 nameToCityMap:', nameToCityMap);
 export const CarparkProvider = ({ children }) => {
   const [groupedByCity, setGroupedByCity] = useState({});
+  const [parkingDetails, setParkingDetails] = useState([]);
   const [loading, setLoading] = useState(true);
   // console.log('🌀 CarparkProvider component render:', new Date().toISOString());
 
@@ -128,11 +129,10 @@ export const CarparkProvider = ({ children }) => {
         const token = await getAccessToken();
         //console.log('🔑 token:', token);
 
-        const [carparkRes, scenicRes] = await Promise.all([
+        const [carparkRes, scenicRes,detailRes] = await Promise.all([
           axios.get('https://tdx.transportdata.tw/api/basic/v1/Parking/OffStreet/CarPark/To/Toursim/ScenicSpot', {
             headers: { Authorization: `Bearer ${token}` },
             params: {
-              $top: 1000000,
               $format: 'JSON',
               $orderby: 'ScenicSpotID',
             },
@@ -140,13 +140,19 @@ export const CarparkProvider = ({ children }) => {
           axios.get('https://tdx.transportdata.tw/api/basic/v2/Tourism/ScenicSpot', {
             headers: { Authorization: `Bearer ${token}` },
             params: {
-              $top: 1000000,
               $format: 'JSON',
               $orderby: 'ScenicSpotID',
             },
           }),
+          axios.get('https://tdx.transportdata.tw/api/basic/v1/Parking/OffStreet/ParkingFacility/Tourism', {
+            headers: { Authorization: `Bearer ${token}` },
+            params: {
+              $format: 'JSON',
+              $orderby: 'CarParkID',
+            },
+          }),
         ]);
-
+        console.log('📦 carparkRes:', carparkRes);
         const scenicMap = {};
         for (const spot of scenicRes.data) {
           scenicMap[spot.ScenicSpotID] = spot;
@@ -183,14 +189,45 @@ export const CarparkProvider = ({ children }) => {
         const grouped = {};
           enriched.forEach(carpark => {
             const city = carpark.ScenicSpotInfo.City;
+            const carid = carpark.CarParkID;
             if (!grouped[city]) grouped[city] = [];
+            const isDuplicate = grouped[city].some(existing => existing.CarParkID === carid);
+            if (!isDuplicate) {
             grouped[city].push(carpark);
+            }
           });
-        
+        const detailMap = {};
+        const detailIdMap = {};
+
+        for (const item of detailRes.data.ParkingFacilities) {
+          detailIdMap[item.CarParkID] = item;
+        }
+
+        for (const city in grouped) {
+          for (const carpark of grouped[city]) {
+            const carid = carpark.CarParkID;
+            const detail = detailIdMap[carid];
+
+            if (detail) {
+              // 若 carid 尚未建立對應陣列，先初始化
+              if (!detailMap[carid]) {
+                detailMap[carid] = [];
+              }
+              // 將 carpark 加入對應 detailMap 條目
+              const isDuplicate = detailMap[carid].some(
+                (existing) => JSON.stringify(existing) === JSON.stringify(detail)
+              );
+              if (!isDuplicate) {
+              detailMap[carid].push(detail);
+              }
+            }
+          }
+        }
+
         console.log('📦 groupedByCity:', grouped);
-
+        console.log('📦 detailMap:', detailMap);
         setGroupedByCity(grouped);
-
+        setParkingDetails(detailMap);
       } catch (err) {
         console.error('🚨 Error fetching data:', err);
       } finally {
@@ -200,7 +237,7 @@ export const CarparkProvider = ({ children }) => {
   };
 
   return (
-    <CarparkContext.Provider value={{ groupedByCity}}>
+    <CarparkContext.Provider value={{ groupedByCity, parkingDetails}}>
       {children}
     </CarparkContext.Provider>
   );
